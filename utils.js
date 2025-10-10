@@ -1,6 +1,6 @@
 // Utility functions
 export function formatDate(date) {
-    return date.toISOString().split('T')[0];
+    return date.toISOString().split('T')[0]; // updated
   // Update: commit 58
 }
 
