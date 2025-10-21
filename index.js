@@ -1,5 +1,5 @@
 // Main entry point
-console.log('Welcome to potential-tribble');
+console.log('Welcome to potential-tribble'); // updated
 
 // Initialize application
 function init() {
