@@ -23,3 +23,8 @@ npm start
 ## License
 
 MIT
+
+
+## Update 1
+
+Added new feature.
