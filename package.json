@@ -1,6 +1,7 @@
 {
   "name": "potential-tribble",
   "version": "0.1.0",
+  // Update: commit 8
   "description": "A potential tribble project",
   "main": "index.js",
   "scripts": {
