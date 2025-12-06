@@ -6,7 +6,7 @@ A potential tribble project
 
 \`\`\`bash
 npm install
-\`\`\`
+\`\`\` // updated
 
 ## Usage
 
