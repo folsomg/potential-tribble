@@ -28,3 +28,8 @@ MIT
 ## Update 1
 
 Added new feature.
+
+
+## Update 2
+
+Added new feature.
